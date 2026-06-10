@@ -17,6 +17,8 @@
 - Обробка помилок API та неіснуючих користувачів
 
 ## Вимоги
+Сторено за завданням:
+https://roadmap.sh/projects/github-user-activity
 
 - JDK 11+
 
